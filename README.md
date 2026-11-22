@@ -47,11 +47,34 @@ Because reliable documentation and interactive resources for *Zubo* are scarce a
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <th width="50%">Home</th>
+    <th width="50%">3D Zubo Catalog</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="screenshots/home.png" alt="Home" height="230" /></td>
+    <td width="50%" align="center"><img src="screenshots/catalog.png" alt="3D Catalog" width="100%" /></td>
+  </tr>
+  <tr>
+    <th width="50%">Interactive World Maps</th>
+    <th width="50%">Zubodle Daily Minigame</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="screenshots/maps.png" alt="Interactive Maps" width="100%" /></td>
+    <td width="50%" align="center"><img src="screenshots/zubodle.png" alt="Zubodle" width="100%" /></td>
+  </tr>
+</table>
+
+---
+
 ## Key Features
 
 ### 1. 3D Zubo Catalog (`/catalogo`)
 - **All 55 playable Zubos** grouped across their 11 teams, with interactive rotatable **3D models** rendered in real time via WebGL (`Three.js`).
-- **Ult form toggle** (currently featuring Pinky's Ult model, with more Ult forms planned).
+- **Ulti form toggle** (currently featuring Pinky's Ulti model, with more Ulti forms planned).
 - Starting level, team, class (*Fighter*, *Defender*, *Performer*), full 4-skill movepool, and localized descriptions.
 - Direct shareable URLs for every individual Zubo (e.g. `/catalogo/Pinky?lang=en`).
 
@@ -87,7 +110,7 @@ Because reliable documentation and interactive resources for *Zubo* are scarce a
 - [x] Interactive Leaflet maps for all 5 worlds of Zubalon
 - [x] Daily **Zubodle** minigame with streaks & result sharing
 - [x] Full 4-language localization (**ES / EN / FR / DE**) & multilingual Edge SEO
-- [ ] Remaining Ult 3D models
+- [ ] Remaining Ulti 3D models
 - [ ] Villains / Zombos catalog section
 - [ ] **Zuboguesser** minigame (locate in-game screenshots on the world maps)
 - [ ] **Zubo Rhythm** minigame (browser-adapted rhythm combat)
